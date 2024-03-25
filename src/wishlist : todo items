@@ -1,0 +1,23 @@
+/**
+ * API Requests
+ * mass update/ delete
+ * update/delete of individual users 
+ * 
+ */
+
+/**
+ * TODO
+ * on hover of a row, show weather in the background
+ * on expand, show info in a cool way 
+ * on expand, allow edit of user
+ * make whole row clickable 
+ * make search real 
+ * make the top bar look better
+ * add favorites
+ * accessibility features / font auto-resizing 
+ * make the top nav animate when scrolling the way their website is
+ * make names text fields when opening the detail view (on modal?)
+ *user entered fields can be edited on screen 
+ */
+
+ - add modal to edit users with text fields (hidden behind admin func)
